@@ -1,10 +1,8 @@
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div>
+  HELLO<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
 
 ---
-
 ### :man_technologist:: About Me :
 
 I am a Font-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -17,7 +15,6 @@ I am a Font-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-tomar-860086225/)
 
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -32,6 +29,5 @@ I am a Font-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 ---
-
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayTomar24)](https://github.com/anuraghazra/github-readme-stats)
