@@ -1,11 +1,12 @@
-<div>
-  Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div style="font-weight: bold;">
+  HELLO WORLD 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"/>
 </div>
 
 ---
-### :man_technologist:: About Me :
+### :man_technologist: About Me :
 
-I am a Font-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m currently a 3rd year student at JIIT,Noida.
 
 - :seedling: Exploring Technical Content Writing.
